@@ -3,9 +3,9 @@ os:
   - osx
   - linux
 julia:
-  - "0.7"
   - "1.0"
-  - nightly
+  - "1.1"
+  - "nightly"
 notifications:
   email: false
 #script: # the default script is equivalent to the following
